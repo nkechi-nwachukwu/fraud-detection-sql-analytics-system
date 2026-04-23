@@ -36,6 +36,9 @@ This system addresses these issues using SQL analytics and dashboards.
 ### Data Operations:
 - Data insertion using SQL scripts
 - Data cleaning and transformation
+- Data validation and standardization
+- Feature engineering using SQL
+- Preparation of structured datasets for Power BI dashboards
 
 ---
 
