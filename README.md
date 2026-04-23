@@ -57,10 +57,10 @@ These views support segmentation and fraud scoring logic.
 ## 📈 Dashboards (Power BI)
 
 ### 1. Overview – Fraud Monitoring Dashboard
-- Total transactions
+- Total fraud exposure
 - Fraud cases
 - Risk distribution
-- Trend analysis
+- Risky customers
 
 ### 2. Customer & Account Risk Dashboard
 - High-risk customers
