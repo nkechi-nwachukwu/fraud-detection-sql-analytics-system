@@ -31,7 +31,7 @@ This system addresses these issues using SQL analytics and dashboards.
 - Customers
 - Accounts
 - Transactions
-- Merchants / Locations (if included)
+- Fraud_Flags
 
 ### Data Operations:
 - Data insertion using SQL scripts
