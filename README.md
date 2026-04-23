@@ -101,9 +101,8 @@ These views support segmentation and fraud scoring logic.
 ---
 
 ## 🛠️ Tools Used
-- SQL (MySQL / PostgreSQL / SQL Server)
+- SQL (MySQL)
 - Power BI
-- Excel (data preprocessing)
 - GitHub (version control)
 
 ---
