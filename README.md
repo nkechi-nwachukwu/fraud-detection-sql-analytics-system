@@ -4,15 +4,16 @@
 This project is an end-to-end Financial Fraud Detection and Monitoring System built using SQL and Power BI.
 It simulates a real-world fraud detection environment by identifying suspicious transactions, flagging high-risk customers/accounts, and providing actionable insights through an interactive dashboard.
 
-⚡ Built from scratch — **including database design, data generation, SQL modeling, fraud logic, and dashboard development.**
+⚡ Built from scratch — including database design, data generation, SQL modeling, fraud logic, and dashboard development.
 ---
 
 ## 🎯 Objectives
-- Build a structured financial database system
-- Track and analyze transactions in real time
-- Detect fraud using SQL-based logic and risk scoring
+- Design a structured financial transactions database
+- Detect fraudulent and suspicious transactions using SQL
+- Identify high-risk customers and accounts
 - Create analytical views for risk segmentation
 - Visualize fraud insights using Power BI dashboards
+- Simulate fraud alerts and predictive risk scoring
 
 ---
 
@@ -27,7 +28,7 @@ This system addresses these issues using SQL analytics and dashboards.
 
 ---
 
-## 🗄️ Database Components
+## 🗄️ Database Design
 
 ### Tables Created:
 - Customers
