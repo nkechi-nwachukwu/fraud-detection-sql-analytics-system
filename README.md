@@ -125,21 +125,19 @@ Built an interactive fraud monitoring dashboard to visualize key insights.
 
 Implemented SQL-based alert logic to simulate real-time fraud monitoring:
 
--High transaction amount + high risk score
-
--Rapid transaction frequency
-
--Abnormal geographic activity
+- High transaction amount + high risk score
+- Rapid transaction frequency
+- Abnormal geographic activity
 
 ➡️ Enables quick identification of high-risk transactions.
 ---
 
 ## 🔮 Predictive Fraud Scoring (Simulated)
 Built a weighted scoring model using SQL to estimate fraud probability based on:
--Transaction amount
--Risk score
--Transaction frequency
--Geographic patterns
+- Transaction amount
+- Risk score
+- Transaction frequency
+- Geographic patterns
 
 ➡️ Helps prioritize transactions for investigation.
 
