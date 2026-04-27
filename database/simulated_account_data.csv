@@ -1,0 +1,11 @@
+account_id,customer_id,account_type,balance,created_at
+1,1,savings,500000,"Saturday, April 18, 2026"
+2,2,current,1200000,"Saturday, April 18, 2026"
+3,3,savings,300000,"Saturday, April 18, 2026"
+4,4,savings,0,"Saturday, April 18, 2026"
+5,5,current,2500000,"Saturday, April 18, 2026"
+6,6,savings,800000,"Saturday, April 18, 2026"
+7,7,current,150000,"Saturday, April 18, 2026"
+8,8,savings,4000000,"Saturday, April 18, 2026"
+9,9,savings,600000,"Saturday, April 18, 2026"
+10,10,current,10000000,"Saturday, April 18, 2026"

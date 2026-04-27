@@ -1,0 +1,11 @@
+customer_id,full_name,email,phone,country,status,created_at
+1,John Doe,john@example.com,8011111111,Nigeria,active,"Saturday, April 18, 2026"
+2,Mary Smith,mary@example.com,8022222222,Nigeria,active,"Saturday, April 18, 2026"
+3,Linda Brown,linda@example.com,8009090911,Nigeria,active,"Saturday, April 18, 2026"
+4,David Uche,uche@example.com,9145116711,Nigeria,active,"Saturday, April 18, 2026"
+5,James Itoro,itoro@example.com,8199999991,Nigeria,active,"Saturday, April 18, 2026"
+6,Utibe Aidan,aidan@example.com,8044441111,Nigeria,active,"Saturday, April 18, 2026"
+7,Emeka Nwosu,nwosu@example.com,9011889911,Nigeria,active,"Saturday, April 18, 2026"
+8,Sheriff Musa,musa@example.com,8045811121,Nigeria,active,"Saturday, April 18, 2026"
+9,Sharon Ada,ada@example.com,9122233322,Nigeria,active,"Saturday, April 18, 2026"
+10,Chioma Odiba,odiba@example.com,9127000000,Nigeria,active,"Saturday, April 18, 2026"

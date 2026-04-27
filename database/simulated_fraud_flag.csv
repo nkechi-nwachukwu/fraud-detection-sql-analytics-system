@@ -1,0 +1,21 @@
+flag_id,transaction_id,risk_score,reason,flagged_by,flagged_at
+1,4,8,High-value transfer,rule_engine,4/18/2026 19:07
+2,5,9,Repeated high transfers,rule_engine,4/18/2026 19:07
+3,6,9,Transaction under review for unusual activity,system,4/18/2026 19:07
+4,7,7,Failed withdrawal,system,4/18/2026 19:07
+5,8,8,Card testing behaviour,system,4/18/2026 19:07
+6,9,9,Blocked due to high fraud risk,rule_engine,4/18/2026 19:07
+7,10,9,Large international transfer,rule_engine,4/18/2026 19:07
+8,11,8,Unusual foreign transaction location,rule_engine,4/18/2026 19:07
+9,15,10,Extremely high transfer,analyst,4/18/2026 19:07
+10,16,10,Large international transfer,rule_engine,4/18/2026 19:07
+11,17,9,Foreign withdrawal anomaly,rule_engine,4/18/2026 19:07
+12,20,8,High withdrawal,analyst,4/18/2026 19:07
+13,21,9,Repeated high withdrawal,system,4/18/2026 19:07
+14,22,9,Abnormal transaction frequency,system,4/18/2026 19:07
+15,23,7,Failed transfer,system,4/18/2026 19:07
+16,24,8,Suspicious reversal activity,system,4/18/2026 19:07
+17,27,7,Failed withdrawal,system,4/18/2026 19:07
+18,34,7,Transaction under review for unusual activity,system,4/18/2026 19:07
+19,37,9,Large international transfer,rule_engine,4/18/2026 19:07
+20,40,8,Foreign withdrawal anomaly,rule_engine,4/18/2026 19:07
