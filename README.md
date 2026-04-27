@@ -126,7 +126,9 @@ Built an interactive fraud monitoring dashboard to visualize key insights.
 Implemented SQL-based alert logic to simulate real-time fraud monitoring:
 
 -High transaction amount + high risk score
+
 -Rapid transaction frequency
+
 -Abnormal geographic activity
 
 ➡️ Enables quick identification of high-risk transactions.
