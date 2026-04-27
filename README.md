@@ -1,8 +1,10 @@
 # 🚨 Financial Fraud Detection & Transaction Monitoring System (SQL + Power BI)
 
 ## 📌 Project Overview
-This project simulates a real-world financial fraud detection system using SQL and Power BI. It focuses on identifying suspicious transactions, monitoring customer behavior, and analyzing fraud patterns across accounts and locations.
+This project is an end-to-end Financial Fraud Detection and Monitoring System built using SQL and Power BI.
+It simulates a real-world fraud detection environment by identifying suspicious transactions, flagging high-risk customers/accounts, and providing actionable insights through an interactive dashboard.
 
+⚡ Built from scratch — **including database design, data generation, SQL modeling, fraud logic, and dashboard development.**
 ---
 
 ## 🎯 Objectives
