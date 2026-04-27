@@ -5,6 +5,7 @@ This project is an end-to-end Financial Fraud Detection and Monitoring System bu
 It simulates a real-world fraud detection environment by identifying suspicious transactions, flagging high-risk customers/accounts, and providing actionable insights through an interactive dashboard.
 
 ⚡ Built from scratch — including database design, data generation, SQL modeling, fraud logic, and dashboard development.
+
 ---
 
 ## 🎯 Objectives
