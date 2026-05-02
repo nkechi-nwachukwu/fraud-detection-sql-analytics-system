@@ -82,19 +82,19 @@ Each transaction is assigned a fraud risk score (0–100) based on:
 - Existing risk indicators
 
 ## 🧾 Risk Classification
-High Risk
-Medium Risk
-Low Risk
+- High Risk
+- Medium Risk
+- Low Risk
 ## 📈 Outcome
-Enables prioritization of high-risk transactions
-Simulates predictive analytics without machine learning
-Provides a foundation for future model expansion
+- Enables prioritization of high-risk transactions
+- Simulates predictive analytics without machine learning
+- Provides a foundation for future model expansion
 
 ## 📊 Power BI Dashboard
 
 The system is visualized through an interactive dashboard structured into multiple analytical layers:
 
-🧩 Dashboard Pages
+## 🧩 Dashboard Pages
 ### 1. Overview – Fraud Monitoring Dashboard
 - Total fraud exposure
 - Fraud cases
