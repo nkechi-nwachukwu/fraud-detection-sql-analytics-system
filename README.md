@@ -141,8 +141,8 @@ These views support segmentation and fraud scoring logic.
 
 ---
 ## 🛠️ Tools & Technologies
-SQL - (data modeling, window functions, rule-based logic, predictive scoring)
-Power BI -(data visualization, KPI monitoring, interactive dashboards)
+- SQL - (data modeling, window functions, rule-based logic, predictive scoring)
+- Power BI -(data visualization, KPI monitoring, interactive dashboards)
 
 ---
 ## 📂 Repository Structure
