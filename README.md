@@ -7,6 +7,10 @@ It simulates a real-world fraud detection environment by identifying suspicious 
 The system combines descriptive analytics, rule-based alerting, and simulated predictive scoring to provide a structured approach to fraud risk management — similar to what is used in fintech and financial institutions.
 
 ---
+## Dashboard Overview
+
+
+---
 
 ## ⚠️ Problem Statement
 Financial institutions face:
