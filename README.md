@@ -58,17 +58,17 @@ Developed SQL views to support segmentation and fraud scoring patterns, includin
 A SQL-driven alert engine was implemented to automatically flag suspicious transactions.
 
 ## 🔍 Alert Conditions
-High transaction value (> ₦500,000)
-High transaction frequency per account (velocity proxy)
-Elevated transaction risk score
+- High transaction value (> ₦500,000)
+- High transaction frequency per account (velocity proxy)
+- Elevated transaction risk score
 ## ⚙️ Implementation
-SQL CASE logic used to define alert conditions
-Window functions applied to calculate transaction frequency
-Multiple alert flags allow a single transaction to trigger several alerts
+- SQL CASE logic used to define alert conditions
+- Window functions applied to calculate transaction frequency
+- Multiple alert flags allow a single transaction to trigger several alerts
 ## 📈 Outcome
-Real-time identification of suspicious transactions
-Improved fraud visibility across the system
-Structured alert pipeline for monitoring and investigation
+- Real-time identification of suspicious transactions
+- Improved fraud visibility across the system
+- Structured alert pipeline for monitoring and investigation
 
 ---
 ## 🔮 Predictive Fraud Scoring (Simulated)
