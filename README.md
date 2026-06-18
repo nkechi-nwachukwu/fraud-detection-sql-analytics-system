@@ -9,8 +9,7 @@ The system combines descriptive analytics, rule-based alerting, and simulated pr
 ---
 ## ## 📊 Dashboard Overview
 
-![Fraud Monitoring Dashboard](images/dashboard_overview.png)
-
+<img width="1016" height="591" alt="Bank Campaign Overview Page" src="https://github.com/user-attachments/assets/d045913b-ccf6-4c52-9fbc-1cdbcde3c946" />
 
 ---
 
