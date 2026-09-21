@@ -9,12 +9,6 @@ The system combines descriptive analytics, rule-based alerting, and simulated pr
 ---
 ## ## 📊 Dashboard Overview
 
-## Dashboard Overview
-
-## Dashboard Overview
-
-<img src="images/dashboard-overview.png" alt="Dashboard Overview" width="100%">
-
 ---
 
 ## ⚠️ Problem Statement
