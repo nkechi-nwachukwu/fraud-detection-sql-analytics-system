@@ -156,6 +156,7 @@ These views support segmentation and fraud scoring logic.
 /documentation/   → Project documentation  
 /README.md/
 /dashboard-overview.png/
+
 ---
 ## 🚀 Key Features
 - End-to-end fraud monitoring workflow
@@ -214,10 +215,11 @@ This progression demonstrates the transition from:
 
 ## 👤 Author
 **Nkechi Nwachukwu**  
+Nkechi Nwachukwu
 Business Analyst | Data & Operations Analytics
 
-Portfolio: dorothy-data-portfolio.lovable.app
+Portfolio: https://dorothy-data-portfolio.lovable.app
 
-GitHub: github.com/nkechi-nwachukwu
+GitHub: https://github.com/nkechi-nwachukwu
 
-LinkedIn: linkedin.com/in/nkechi-nwachukwu-82ba911bb
+LinkedIn: https://linkedin.com/in/nkechi-nwachukwu-82ba911bb
