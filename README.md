@@ -192,10 +192,11 @@ This project evolved from:
 ## Fraud Monitoring System with Alerts & Risk Scoring
 
 This progression demonstrates the transition from:
-- ## Descriptive analytics → What happened
-  to
-- ## Diagnostic & predictive logic → What requires attention and what may happen next
 
+**- ## Descriptive analytics → What happened
+*  to
+**- ## Diagnostic & predictive logic → What requires attention and what may happen next
+**
 ---
 ## 📌 How to Use
 1. Run SQL scripts to create tables and views
