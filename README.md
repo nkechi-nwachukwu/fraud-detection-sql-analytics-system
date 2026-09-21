@@ -9,7 +9,6 @@ The system combines descriptive analytics, rule-based alerting, and simulated pr
 ---
 ## ## 📊 Dashboard Overview
 <img width="1800" height="1200" alt="Fraud Detection Mockup" src="https://github.com/user-attachments/assets/6a432113-b3cb-4445-9ea5-a72c0da539a1" />
-<img width="989" height="616" alt="image" src="https://github.com/user-attachments/assets/1c589997-d676-4358-b1ac-4913f2e818fd" />
 
 ---
 
