@@ -7,7 +7,7 @@ It simulates a real-world fraud detection environment by identifying suspicious 
 The system combines descriptive analytics, rule-based alerting, and simulated predictive scoring to provide a structured approach to fraud risk management — similar to what is used in fintech and financial institutions.
 
 ---
-## ## 📊 Dashboard Overview
+## 📊 Dashboard Overview
 <img width="1800" height="1200" alt="Fraud Detection Mockup" src="https://github.com/user-attachments/assets/6a432113-b3cb-4445-9ea5-a72c0da539a1" />
 
 ---
