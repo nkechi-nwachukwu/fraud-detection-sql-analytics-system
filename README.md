@@ -214,10 +214,9 @@ This progression demonstrates the transition from:
 
 ---
 
-## 👤 Author
-**Nkechi Nwachukwu**  
-Nkechi Nwachukwu
-Business Analyst | Data & Operations Analytics
+## 👤 Author  
+**Nkechi Nwachukwu
+Business Analyst | Data & Operations Analytics**
 
 Portfolio: https://dorothy-data-portfolio.lovable.app
 
